@@ -1,0 +1,154 @@
+﻿<Window x:Class="wpf_beadando.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Legyen Ön is millomos!" Loaded="Window_Loaded" mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" Height="730" Width="1369" Closing="Window_Closing" WindowStartupLocation="CenterScreen">
+    <Grid Name="telefon_szamlalo_befoglalo">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="412*" />
+            <ColumnDefinition Width="949*" />
+        </Grid.ColumnDefinitions>
+        <Border
+
+    CornerRadius="30"
+
+    Background="Black"
+
+    HorizontalAlignment="Left"
+
+    VerticalAlignment="Top"
+
+    Height="60" Margin="12,389,0,0" Grid.ColumnSpan="2" Width="812">
+            <Label Content="Kérdés" Height="29" Name="kerdes_label" Foreground="White" FontSize="15" FontFamily="Arial" Width="734" />
+        </Border>
+
+        <Border Name="a_border" Background="Black" CornerRadius="30" Height="51" HorizontalAlignment="Left" Margin="9,460,0,0" VerticalAlignment="Top" MouseDown="AValasz_Click" Width="400">
+            <Label Content="A:" FontFamily="Arial" FontSize="15" Foreground="Orange" Height="26" Name="a_betu_label" Width="392" />
+        </Border>
+        <Label Content="A válasz" Height="37" Margin="35,472,4,0" Name="a_label" VerticalAlignment="Top" Foreground="White" FontFamily="Arial" FontSize="15" MouseDown="AValasz_Click" />
+
+        <Border Name="b_border" Background="Black" CornerRadius="30" Height="51" HorizontalAlignment="Left" Margin="12,460,0,0" VerticalAlignment="Top" MouseDown="BValasz_Click" Grid.Column="1" Width="400" Padding="12,0,0,0">
+            <Label Content="B:" FontFamily="Arial" FontSize="15" Foreground="Orange" Height="26" Name="b_betu_label" Width="397" Margin="-2,12,2,13" />
+        </Border>
+        <Label Content="B válasz" Foreground="White" Height="39" Margin="39,472,551,0" Name="b_label" VerticalAlignment="Top" FontSize="15" FontFamily="Arial" Grid.Column="1" MouseDown="BValasz_Click" />
+
+        <Border Name="c_border" Background="Black" CornerRadius="30" Height="51" HorizontalAlignment="Left" Margin="9,517,0,0" VerticalAlignment="Top" MouseDown="CValasz_Click" Width="400">
+            <Label Content="C:" FontFamily="Arial" FontSize="15" Foreground="Orange" Height="26" Name="c_betu_label" Width="392" />
+        </Border>
+        <Label Content="C válasz" FontFamily="Arial" FontSize="15" Foreground="White" Height="37" Margin="35,528,4,0" Name="c_label" VerticalAlignment="Top" MouseDown="CValasz_Click" />
+
+        <Border Name="d_border" Background="Black" CornerRadius="30" Height="51" HorizontalAlignment="Left" Margin="12,518,0,0" VerticalAlignment="Top" MouseDown="DValasz_Click" Grid.Column="1" Width="400">
+            <Label Content="D:" FontFamily="Arial" FontSize="15" Foreground="Orange" Height="26" Name="d_betu_label" Width="397" Margin="10,12,-7,13" />
+        </Border>
+        <Label Content="D válasz" FontFamily="Arial" FontSize="15" Foreground="White" Height="39" Margin="39,530,551,0" Name="d_label" VerticalAlignment="Top" Grid.Column="1" MouseDown="DValasz_Click" />
+
+        <GroupBox Height="521" HorizontalAlignment="Left" Margin="534,95,0,0" Name="nyeremenyek_box" VerticalAlignment="Top" Width="259" Background="Blue" Grid.Column="1">
+            <Grid>
+                <Grid Height="25" HorizontalAlignment="Left" Margin="6,475,0,0" Name="nyeremeny_grid1" VerticalAlignment="Top" Width="225">
+                    <Label Content="1" Height="30" HorizontalAlignment="Left" Margin="6,0,0,0" Name="szam_label1" VerticalAlignment="Top" FontFamily="Arial" FontSize="18" Foreground="Red" />
+                    <Label Content="Ft" Height="30" HorizontalAlignment="Right" Margin="100,0,0,0" Name="nyeremeny_label1" VerticalAlignment="Top" FontSize="18" FontFamily="Arial" Foreground="Red" />
+                </Grid>
+
+                <Grid Height="25" HorizontalAlignment="Left" Margin="6,450,0,0" Name="nyeremeny_grid2" VerticalAlignment="Top" Width="225">
+                    <Label Content="2" Height="30" HorizontalAlignment="Left" Margin="6,0,0,0" Name="szam_label2" VerticalAlignment="Top" FontFamily="Arial" FontSize="18" Foreground="Red" />
+                    <Label Content="Ft" Height="30" HorizontalAlignment="Right" Margin="100,0,0,0" Name="nyeremeny_label2" VerticalAlignment="Top" FontSize="18" FontFamily="Arial" Foreground="Red" />
+                </Grid>
+
+                <Grid Height="25" HorizontalAlignment="Left" Margin="6,425,0,0" Name="nyeremeny_grid3" VerticalAlignment="Top" Width="225">
+                    <Label Content="3" Height="30" HorizontalAlignment="Left" Margin="6,0,0,0" Name="szam_label3" VerticalAlignment="Top" FontFamily="Arial" FontSize="18" Foreground="Red" />
+                    <Label Content="Ft" Height="30" HorizontalAlignment="Right" Margin="100,0,0,0" Name="nyeremeny_label3" VerticalAlignment="Top" FontSize="18" FontFamily="Arial" Foreground="Red" />
+                </Grid>
+
+                <Grid Height="25" HorizontalAlignment="Left" Margin="6,400,0,0" Name="nyeremeny_grid4" VerticalAlignment="Top" Width="225">
+                    <Label Content="4" Height="30" HorizontalAlignment="Left" Margin="6,0,0,0" Name="szam_label4" VerticalAlignment="Top" FontFamily="Arial" FontSize="18" Foreground="Red" />
+                    <Label Content="Ft" Height="30" HorizontalAlignment="Right" Margin="100,0,0,0" Name="nyeremeny_label4" VerticalAlignment="Top" FontSize="18" FontFamily="Arial" Foreground="Red" />
+                </Grid>
+
+                <Grid Height="25" HorizontalAlignment="Left" Margin="6,375,0,0" Name="nyeremeny_grid5" VerticalAlignment="Top" Width="225">
+                    <Label Content="5" Height="30" HorizontalAlignment="Left" Margin="6,0,0,0" Name="szam_label5" VerticalAlignment="Top" FontFamily="Arial" FontSize="18" Foreground="White" />
+                    <Label Content="Ft" Height="30" HorizontalAlignment="Right" Margin="100,0,0,0" Name="nyeremeny_label5" VerticalAlignment="Top" FontSize="18" FontFamily="Arial" Foreground="White" />
+                </Grid>
+
+                <Grid Height="25" HorizontalAlignment="Left" Margin="6,350,0,0" Name="nyeremeny_grid6" VerticalAlignment="Top" Width="225">
+                    <Label Content="6" Height="30" HorizontalAlignment="Left" Margin="6,0,0,0" Name="szam_label6" VerticalAlignment="Top" FontFamily="Arial" FontSize="18" Foreground="Red" />
+                    <Label Content="Ft" Height="30" HorizontalAlignment="Right" Margin="100,0,0,0" Name="nyeremeny_label6" VerticalAlignment="Top" FontSize="18" FontFamily="Arial" Foreground="Red" />
+                </Grid>
+
+                <Grid Height="25" HorizontalAlignment="Left" Margin="6,325,0,0" Name="nyeremeny_grid7" VerticalAlignment="Top" Width="225">
+                    <Label Content="7" Height="30" HorizontalAlignment="Left" Margin="6,0,0,0" Name="szam_label7" VerticalAlignment="Top" FontFamily="Arial" FontSize="18" Foreground="Red" />
+                    <Label Content="Ft" Height="30" HorizontalAlignment="Right" Margin="100,0,0,0" Name="nyeremeny_label7" VerticalAlignment="Top" FontSize="18" FontFamily="Arial" Foreground="Red" />
+                </Grid>
+
+                <Grid Height="25" HorizontalAlignment="Left" Margin="6,300,0,0" Name="nyeremeny_grid8" VerticalAlignment="Top" Width="225">
+                    <Label Content="8" Height="30" HorizontalAlignment="Left" Margin="6,0,0,0" Name="szam_label8" VerticalAlignment="Top" FontFamily="Arial" FontSize="18" Foreground="Red" />
+                    <Label Content="Ft" Height="30" HorizontalAlignment="Right" Margin="100,0,0,0" Name="nyeremeny_label8" VerticalAlignment="Top" FontSize="18" FontFamily="Arial" Foreground="Red" />
+                </Grid>
+
+                <Grid Height="25" HorizontalAlignment="Left" Margin="6,275,0,0" Name="nyeremeny_grid9" VerticalAlignment="Top" Width="225">
+                    <Label Content="9" Height="30" HorizontalAlignment="Left" Margin="6,0,0,0" Name="szam_label9" VerticalAlignment="Top" FontFamily="Arial" FontSize="18" Foreground="Red" />
+                    <Label Content="Ft" Height="30" HorizontalAlignment="Right" Margin="100,0,0,0" Name="nyeremeny_label9" VerticalAlignment="Top" FontSize="18" FontFamily="Arial" Foreground="Red" />
+                </Grid>
+
+                <Grid Height="25" HorizontalAlignment="Left" Margin="6,250,0,0" Name="nyeremeny_grid10" VerticalAlignment="Top" Width="225">
+                    <Label Content="10" Height="30" HorizontalAlignment="Left" Margin="6,0,0,0" Name="szam_label10" VerticalAlignment="Top" FontFamily="Arial" FontSize="18" Foreground="White" />
+                    <Label Content="Ft" Height="30" HorizontalAlignment="Right" Margin="100,0,0,0" Name="nyeremeny_label10" VerticalAlignment="Top" FontSize="18" FontFamily="Arial" Foreground="White" />
+                </Grid>
+
+                <Grid Height="25" HorizontalAlignment="Left" Margin="6,225,0,0" Name="nyeremeny_grid11" VerticalAlignment="Top" Width="225">
+                    <Label Content="11" Height="30" HorizontalAlignment="Left" Margin="6,0,0,0" Name="szam_label11" VerticalAlignment="Top" FontFamily="Arial" FontSize="18" Foreground="Red" />
+                    <Label Content="Ft" Height="30" HorizontalAlignment="Right" Margin="100,0,0,0" Name="nyeremeny_label11" VerticalAlignment="Top" FontSize="18" FontFamily="Arial" Foreground="Red" />
+                </Grid>
+
+                <Grid Height="25" HorizontalAlignment="Left" Margin="6,200,0,0" Name="nyeremeny_grid12" VerticalAlignment="Top" Width="225">
+                    <Label Content="12" Height="30" HorizontalAlignment="Left" Margin="6,0,0,0" Name="szam_label12" VerticalAlignment="Top" FontFamily="Arial" FontSize="18" Foreground="Red" />
+                    <Label Content="Ft" Height="30" HorizontalAlignment="Right" Margin="100,0,0,0" Name="nyeremeny_label12" VerticalAlignment="Top" FontSize="18" FontFamily="Arial" Foreground="Red" />
+                </Grid>
+
+                <Grid Height="25" HorizontalAlignment="Left" Margin="6,175,0,0" Name="nyeremeny_grid13" VerticalAlignment="Top" Width="225">
+                    <Label Content="13" Height="30" HorizontalAlignment="Left" Margin="6,0,0,0" Name="szam_label13" VerticalAlignment="Top" FontFamily="Arial" FontSize="18" Foreground="Red" />
+                    <Label Content="Ft" Height="30" HorizontalAlignment="Right" Margin="100,0,0,0" Name="nyeremeny_label13" VerticalAlignment="Top" FontSize="18" FontFamily="Arial" Foreground="Red" />
+                </Grid>
+
+                <Grid Height="25" HorizontalAlignment="Left" Margin="6,150,0,0" Name="nyeremeny_grid14" VerticalAlignment="Top" Width="225">
+                    <Label Content="14" Height="30" HorizontalAlignment="Left" Margin="6,0,0,0" Name="szam_label14" VerticalAlignment="Top" FontFamily="Arial" FontSize="18" Foreground="Red" />
+                    <Label Content="Ft" Height="30" HorizontalAlignment="Right" Margin="100,0,0,0" Name="nyeremeny_label14" VerticalAlignment="Top" FontSize="18" FontFamily="Arial" Foreground="Red" />
+                </Grid>
+
+                <Grid Height="25" HorizontalAlignment="Left" Margin="6,125,0,0" Name="nyeremeny_grid15" VerticalAlignment="Top" Width="225">
+                    <Label Content="15" Height="30" HorizontalAlignment="Left" Margin="6,0,0,0" Name="szam_label15" VerticalAlignment="Top" FontFamily="Arial" FontSize="18" Foreground="White" />
+                    <Label Content="Ft" Height="30" HorizontalAlignment="Right" Margin="100,0,0,0" Name="nyeremeny_label15" VerticalAlignment="Top" FontSize="18" FontFamily="Arial" Foreground="White" />
+                </Grid>
+                <Button Height="50px" BorderThickness="0" HorizontalAlignment="Left" Margin="10,21,0,0" Name="felezo_button" VerticalAlignment="Top" Width="50px" BorderBrush="{x:Null}" Click="felezo_button_Click" ClickMode="Release" Focusable="False" IsEnabled="True" IsTabStop="False" Background="Blue">
+                    <Button.Content>
+                        <Image Source="/wpf_beadando;component/kepek/felezo.bmp" />
+                    </Button.Content>
+                </Button>
+
+                <Button Height="50px" BorderThickness="0" HorizontalAlignment="Left" Margin="90,21,0,0" Name="telefon_button" VerticalAlignment="Top" Width="50px" BorderBrush="{x:Null}" ClickMode="Release" Focusable="False" IsEnabled="True" IsTabStop="False" Background="Blue" Click="telefon_button_Click">
+                    <Button.Content>
+                        <Image Source="/wpf_beadando;component/kepek/telefon.bmp" />
+                    </Button.Content>
+                </Button>
+
+                <Button Height="50px" BorderThickness="0" HorizontalAlignment="Left" Margin="170,21,0,0" Name="nezo_button" VerticalAlignment="Top" Width="50px" BorderBrush="{x:Null}" ClickMode="Release" Focusable="False" IsEnabled="True" IsTabStop="False" Background="Blue" Click="nezo_button_Click">
+                    <Button.Content>
+                        <Image Source="/wpf_beadando;component/kepek/kozonseg.bmp" />
+                    </Button.Content>
+                </Button>
+            </Grid>
+        </GroupBox>
+        <Label Content="Ft" Height="55" HorizontalAlignment="Center" Margin="250,393,763,0" Name="nyeremeny_kiir_label" VerticalAlignment="Top" Foreground="Orange" FontSize="30" Width="348" Grid.ColumnSpan="2" HorizontalContentAlignment="Center" />
+        <Button Content="Új játék" Height="94" HorizontalAlignment="Left" Margin="20,95,0,0" Name="uj_jatek_button" VerticalAlignment="Top" Width="150" Click="uj_jatek_button_Click" />
+        <Button Content="Kiszállás" Height="93" HorizontalAlignment="Left" Margin="201,96,0,0" Name="kiszallas_button" VerticalAlignment="Top" Width="157" Click="kiszallas_button_Click" />
+        <Rectangle Grid.Column="1" Height="150" HorizontalAlignment="Left" Margin="215,110,0,0" Name="telefon_szamlalo_befoglalo_kor" Stroke="Black" VerticalAlignment="Top" Width="150" Fill="Black" RadiusX="200" RadiusY="200" Visibility="Hidden" MouseDown="telefon_szamlalo_fefoglalo_kor_MouseDown" />
+        <Label Content="30" Grid.Column="1" Height="83" HorizontalAlignment="Center" Margin="248,139,603,0" Name="telefon_szamlalo" VerticalAlignment="Top" Width="98" Foreground="White" FontSize="70" FontFamily="Arial" MouseDown="telefon_szamlalo_fefoglalo_kor_MouseDown" Visibility="Hidden" />
+        <Label Height="164" HorizontalAlignment="Left" Margin="20,212,0,0" Name="nezo_segitseg_label" VerticalAlignment="Top" Width="326" FontFamily="Arial" Foreground="Red" />
+        <Slider Grid.Column="1" Height="23" HorizontalAlignment="Left" Margin="147,346,0,0" Name="vago_hangero" VerticalAlignment="Top" Width="200" Maximum="1" VerticalContentAlignment="Center" FlowDirection="LeftToRight" IsDirectionReversed="False" Value="0.7" ValueChanged="vago_hangero_ValueChanged" />
+        <Label Content="Beszéd hangereje:" Grid.Column="1" Height="42" HorizontalAlignment="Left" Margin="12,342,0,0" Name="vago_hangero_label" VerticalAlignment="Top" Width="129" />
+        <Slider Grid.Column="1" Height="23" HorizontalAlignment="Left" Margin="146,313,0,0" Name="hangero" VerticalAlignment="Top" Width="200" Maximum="1" Value="0.5" ValueChanged="hangero_ValueChanged" />
+        <Slider Height="23" HorizontalAlignment="Left" Margin="147,281,0,0" Maximum="1" Name="hatter_zene_hangero" Value="0.3" VerticalAlignment="Top" Width="200" Grid.Column="1" ValueChanged="hatter_zene_hangero_ValueChanged" />
+        <Label Content="Effekrek hangereje:" Height="42" HorizontalAlignment="Left" Margin="12,309,0,0" Name="hangero_label" VerticalAlignment="Top" Width="129" Grid.Column="1" />
+        <Label Content="Háttérzene hangereje:" Height="42" HorizontalAlignment="Left" Margin="12,278,0,0" Name="hatter_zene_hangero_label" VerticalAlignment="Top" Width="134" Grid.Column="1" />
+        <Button x:Name="kerdes_import_button" Content="Kérdések importálása" Grid.Column="1" HorizontalAlignment="Left" Margin="7,96,0,0" VerticalAlignment="Top" Width="207" Height="93" Click="kerdes_import_button_Click" Visibility="Hidden"/>
+        <DockPanel HorizontalAlignment="Left" Height="201" LastChildFill="False" Margin="0,381,0,0" VerticalAlignment="Top" Width="844" Grid.ColumnSpan="2"/>
+    </Grid>
+</Window>

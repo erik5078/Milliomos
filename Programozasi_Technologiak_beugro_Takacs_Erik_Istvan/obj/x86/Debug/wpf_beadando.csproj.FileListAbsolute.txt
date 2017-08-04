@@ -1,0 +1,33 @@
+C:\Users\munka\AppData\Local\Temporary Projects\wpf_beadando\bin\Debug\wpf_beadando.exe
+C:\Users\munka\AppData\Local\Temporary Projects\wpf_beadando\bin\Debug\wpf_beadando.pdb
+C:\Users\munka\AppData\Local\Temporary Projects\wpf_beadando\obj\x86\Debug\MainWindow.baml
+C:\Users\munka\AppData\Local\Temporary Projects\wpf_beadando\obj\x86\Debug\MainWindow.g.cs
+C:\Users\munka\AppData\Local\Temporary Projects\wpf_beadando\obj\x86\Debug\App.g.cs
+C:\Users\munka\AppData\Local\Temporary Projects\wpf_beadando\obj\x86\Debug\wpf_beadando_MarkupCompile.cache
+C:\Users\munka\AppData\Local\Temporary Projects\wpf_beadando\obj\x86\Debug\wpf_beadando.g.resources
+C:\Users\munka\AppData\Local\Temporary Projects\wpf_beadando\obj\x86\Debug\wpf_beadando.Properties.Resources.resources
+C:\Users\munka\AppData\Local\Temporary Projects\wpf_beadando\obj\x86\Debug\wpf_beadando.csproj.GenerateResource.Cache
+C:\Users\munka\AppData\Local\Temporary Projects\wpf_beadando\obj\x86\Debug\wpf_beadando.exe
+C:\Users\munka\AppData\Local\Temporary Projects\wpf_beadando\obj\x86\Debug\wpf_beadando.pdb
+C:\Users\munka\documents\visual studio 2010\Projects\wpf_beadando\wpf_beadando\obj\x86\Debug\wpf_beadando.exe
+C:\Users\munka\documents\visual studio 2010\Projects\wpf_beadando\wpf_beadando\obj\x86\Debug\wpf_beadando.pdb
+C:\Users\munka\documents\visual studio 2010\Projects\wpf_beadando\wpf_beadando\bin\Debug\wpf_beadando.exe
+C:\Users\munka\documents\visual studio 2010\Projects\wpf_beadando\wpf_beadando\bin\Debug\wpf_beadando.pdb
+C:\Users\munka\documents\visual studio 2010\Projects\wpf_beadando\wpf_beadando\obj\x86\Debug\MainWindow.baml
+C:\Users\munka\documents\visual studio 2010\Projects\wpf_beadando\wpf_beadando\obj\x86\Debug\MainWindow.g.cs
+C:\Users\munka\documents\visual studio 2010\Projects\wpf_beadando\wpf_beadando\obj\x86\Debug\App.g.cs
+C:\Users\munka\documents\visual studio 2010\Projects\wpf_beadando\wpf_beadando\obj\x86\Debug\wpf_beadando_MarkupCompile.cache
+C:\Users\munka\documents\visual studio 2010\Projects\wpf_beadando\wpf_beadando\obj\x86\Debug\wpf_beadando.g.resources
+C:\Users\munka\documents\visual studio 2010\Projects\wpf_beadando\wpf_beadando\obj\x86\Debug\wpf_beadando.Properties.Resources.resources
+C:\Users\munka\documents\visual studio 2010\Projects\wpf_beadando\wpf_beadando\obj\x86\Debug\wpf_beadando.csproj.GenerateResource.Cache
+C:\Users\munka\Documents\Visual Studio 2010\Projects\Programozasi_Kornyezetek_Takacs_Erik_Istvan\wpf_beadando\obj\x86\Debug\wpf_beadando.exe
+C:\Users\munka\Documents\Visual Studio 2010\Projects\Programozasi_Kornyezetek_Takacs_Erik_Istvan\wpf_beadando\obj\x86\Debug\wpf_beadando.pdb
+C:\Users\munka\Documents\Visual Studio 2010\Projects\Programozasi_Kornyezetek_Takacs_Erik_Istvan\wpf_beadando\bin\Debug\wpf_beadando.exe
+C:\Users\munka\Documents\Visual Studio 2010\Projects\Programozasi_Kornyezetek_Takacs_Erik_Istvan\wpf_beadando\bin\Debug\wpf_beadando.pdb
+C:\Users\munka\Documents\Visual Studio 2010\Projects\Programozasi_Kornyezetek_Takacs_Erik_Istvan\wpf_beadando\obj\x86\Debug\MainWindow.baml
+C:\Users\munka\Documents\Visual Studio 2010\Projects\Programozasi_Kornyezetek_Takacs_Erik_Istvan\wpf_beadando\obj\x86\Debug\MainWindow.g.cs
+C:\Users\munka\Documents\Visual Studio 2010\Projects\Programozasi_Kornyezetek_Takacs_Erik_Istvan\wpf_beadando\obj\x86\Debug\App.g.cs
+C:\Users\munka\Documents\Visual Studio 2010\Projects\Programozasi_Kornyezetek_Takacs_Erik_Istvan\wpf_beadando\obj\x86\Debug\wpf_beadando_MarkupCompile.cache
+C:\Users\munka\Documents\Visual Studio 2010\Projects\Programozasi_Kornyezetek_Takacs_Erik_Istvan\wpf_beadando\obj\x86\Debug\wpf_beadando.g.resources
+C:\Users\munka\Documents\Visual Studio 2010\Projects\Programozasi_Kornyezetek_Takacs_Erik_Istvan\wpf_beadando\obj\x86\Debug\wpf_beadando.Properties.Resources.resources
+C:\Users\munka\Documents\Visual Studio 2010\Projects\Programozasi_Kornyezetek_Takacs_Erik_Istvan\wpf_beadando\obj\x86\Debug\wpf_beadando.csproj.GenerateResource.Cache

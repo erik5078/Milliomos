@@ -1,0 +1,7 @@
+2017. 08. 04. 21:11:31;Kérdések betöltve
+2017. 08. 04. 21:11:33;Új játék
+2017. 08. 04. 21:11:54;szint: 0 B válasz megjelölve
+2017. 08. 04. 21:12:01;szint: 0 A válasz helyes
+2017. 08. 04. 21:12:13;szint: 1 C válasz megjelölve
+2017. 08. 04. 21:12:19;kilépés
+2017. 08. 04. 21:12:21;szint: 1 A válasz helyes

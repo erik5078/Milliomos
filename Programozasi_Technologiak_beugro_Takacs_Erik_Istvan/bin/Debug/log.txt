@@ -1,0 +1,140 @@
+2015.06.12. 6:36:56;Kérdések betöltve
+2015.06.12. 6:41:41;Kérdések betöltve
+2015.06.12. 6:41:57;szint: 0 A válasz megjelölve
+2015.06.12. 6:44:27;Kérdések betöltve
+2015.06.12. 6:45:15;szint: 1 A válasz megjelölve
+2015.06.12. 8:07:49;Kérdések betöltve
+2015.06.12. 8:08:02;Új játék
+2015.06.12. 8:08:11;szint: 0 B válasz megjelölve
+2015.06.12. 8:08:19;szint: 0 A válasz hibás
+2015.06.12. 8:08:19;Kiesett! Nyereménye: 
+2015.06.12. 8:08:19;Kiesett! Nyereménye: 0
+2015.06.12. 8:08:47;Új játék
+2015.06.12. 8:09:03;szint: 0 B válasz megjelölve
+2015.06.12. 8:09:10;szint: 0 A válasz helyes
+2015.06.12. 8:09:28;Kiszállt! Nyereménye: 5.000
+2015.06.12. 8:10:37;Kérdések betöltve
+2015.06.12. 8:10:39;kilépés
+2015.06.12. 8:17:54;Kérdések betöltve
+2015.06.12. 8:17:56;kilépés
+2015.06.12. 8:22:02;Kérdések betöltve
+2015.06.12. 8:23:31;Kérdések betöltve
+2015.06.12. 8:23:49;Kérdések betöltve
+2015.06.12. 10:41:55;Kérdések betöltve
+2015.06.12. 10:41:58;Új játék
+2015.06.12. 10:42:18;szint: 0 D válasz megjelölve
+2015.06.12. 10:42:25;szint: 0 A válasz helyes
+2015.06.12. 10:43:04;szint: 1 B válasz megjelölve
+2015.06.12. 10:43:11;szint: 1 A válasz helyes
+2015.06.12. 10:43:48;szint: 2 D válasz megjelölve
+2015.06.12. 10:43:55;szint: 2 A válasz helyes
+2015.06.12. 10:44:29;szint: 3 B válasz megjelölve
+2015.06.12. 10:44:36;szint: 3 A válasz helyes
+2015.06.12. 10:44:52;szint: 4 B válasz megjelölve
+2015.06.12. 10:44:59;szint: 4 A válasz hibás
+2015.06.12. 10:44:59;Kiesett! Nyereménye: 
+2015.06.12. 10:44:59;Kiesett! Nyereménye: 0
+2015.06.12. 10:45:04;kilépés
+2015.06.12. 13:24:36;Kérdések betöltve
+2015.06.12. 13:24:40;Új játék
+2015.06.12. 13:24:52;szint: 0 C válasz megjelölve
+2015.06.12. 13:25:00;szint: 0 A válasz helyes
+2015.06.12. 13:25:26;szint: 1 C válasz megjelölve
+2015.06.12. 13:25:33;szint: 1 A válasz helyes
+2015.06.12. 13:26:00;szint: 2 B válasz megjelölve
+2015.06.12. 13:26:07;szint: 2 A válasz helyes
+2015.06.12. 13:27:09;szint: 3 C válasz megjelölve
+2015.06.12. 13:27:16;szint: 3 A válasz hibás
+2015.06.12. 13:27:16;Kiesett! Nyereménye: 
+2015.06.12. 13:27:16;Kiesett! Nyereménye: 0
+2015.06.12. 15:13:50;kilépés
+2017. 08. 04. 20:12:28;Kérdések betöltve
+2017. 08. 04. 20:12:32;Új játék
+2017. 08. 04. 20:13:44;Kérdések betöltve
+2017. 08. 04. 20:14:30;Kérdések betöltve
+2017. 08. 04. 20:16:17;Kérdések betöltve
+2017. 08. 04. 20:16:19;Új játék
+2017. 08. 04. 20:16:34;szint: 0 C válasz megjelölve
+2017. 08. 04. 20:16:41;szint: 0 A válasz helyes
+2017. 08. 04. 20:16:56;szint: 1 D válasz megjelölve
+2017. 08. 04. 20:17:03;szint: 1 A válasz helyes
+2017. 08. 04. 20:17:28;szint: 2 C válasz megjelölve
+2017. 08. 04. 20:17:35;szint: 2 A válasz hibás
+2017. 08. 04. 20:17:35;Kiesett! Nyereménye: 
+2017. 08. 04. 20:17:35;Kiesett! Nyereménye: 0
+2017. 08. 04. 20:17:38;kilépés
+2017. 08. 04. 20:23:38;Kérdések betöltve
+2017. 08. 04. 20:23:41;kilépés
+2017. 08. 04. 20:24:40;Kérdések betöltve
+2017. 08. 04. 20:24:43;kilépés
+2017. 08. 04. 20:38:52;Kérdések betöltve
+2017. 08. 04. 20:38:57;kilépés
+2017. 08. 04. 20:39:17;Kérdések betöltve
+2017. 08. 04. 20:39:18;kilépés
+2017. 08. 04. 20:39:39;Kérdések betöltve
+2017. 08. 04. 20:39:42;kilépés
+2017. 08. 04. 20:41:04;Kérdések betöltve
+2017. 08. 04. 20:41:09;kilépés
+2017. 08. 04. 20:41:35;Kérdések betöltve
+2017. 08. 04. 20:41:38;kilépés
+2017. 08. 04. 20:42:41;Kérdések betöltve
+2017. 08. 04. 20:42:55;kilépés
+2017. 08. 04. 20:43:21;Kérdések betöltve
+2017. 08. 04. 20:43:23;Új játék
+2017. 08. 04. 20:43:30;szint: 0 D válasz megjelölve
+2017. 08. 04. 20:43:34;kilépés
+2017. 08. 04. 20:47:43;Kérdések betöltve
+2017. 08. 04. 20:47:45;Új játék
+2017. 08. 04. 20:47:57;szint: 0 B válasz megjelölve
+2017. 08. 04. 20:48:04;szint: 0 A válasz helyes
+2017. 08. 04. 20:48:27;szint: 1 A válasz megjelölve
+2017. 08. 04. 20:48:34;szint: 1 A válasz helyes
+2017. 08. 04. 20:49:31;szint: 2 C válasz megjelölve
+2017. 08. 04. 20:49:38;szint: 2 A válasz hibás
+2017. 08. 04. 20:49:38;Kiesett! Nyereménye: 
+2017. 08. 04. 20:49:38;Kiesett! Nyereménye: 0
+2017. 08. 04. 20:49:41;Új játék
+2017. 08. 04. 20:50:16;szint: 0 B válasz megjelölve
+2017. 08. 04. 20:50:23;szint: 0 A válasz helyes
+2017. 08. 04. 20:50:55;szint: 1 C válasz megjelölve
+2017. 08. 04. 20:51:02;szint: 1 A válasz helyes
+2017. 08. 04. 20:51:17;szint: 2 B válasz megjelölve
+2017. 08. 04. 20:51:24;szint: 2 A válasz helyes
+2017. 08. 04. 20:51:40;szint: 3 B válasz megjelölve
+2017. 08. 04. 20:51:47;szint: 3 A válasz helyes
+2017. 08. 04. 20:52:01;szint: 4 D válasz megjelölve
+2017. 08. 04. 20:52:08;szint: 4 A válasz helyes
+2017. 08. 04. 20:52:32;kilépés
+2017. 08. 04. 20:54:55;Kérdések betöltve
+2017. 08. 04. 20:54:58;Új játék
+2017. 08. 04. 20:55:19;szint: 0 A válasz megjelölve
+2017. 08. 04. 20:55:26;szint: 0 A válasz hibás
+2017. 08. 04. 20:55:26;Kiesett! Nyereménye: 
+2017. 08. 04. 20:55:26;Kiesett! Nyereménye: 0
+2017. 08. 04. 20:55:27;Új játék
+2017. 08. 04. 20:55:48;szint: 0 B válasz megjelölve
+2017. 08. 04. 20:55:55;szint: 0 A válasz helyes
+2017. 08. 04. 20:56:17;Kiszállt! Nyereménye: 5.000
+2017. 08. 04. 20:56:23;kilépés
+2017. 08. 04. 20:56:59;Kérdések betöltve
+2017. 08. 04. 20:57:03;Új játék
+2017. 08. 04. 20:57:13;szint: 0 D válasz megjelölve
+2017. 08. 04. 20:57:20;szint: 0 A válasz helyes
+2017. 08. 04. 20:57:35;szint: 1 D válasz megjelölve
+2017. 08. 04. 20:57:42;szint: 1 A válasz helyes
+2017. 08. 04. 20:57:53;szint: 2 C válasz megjelölve
+2017. 08. 04. 20:58:00;szint: 2 A válasz helyes
+2017. 08. 04. 20:58:14;szint: 3 B válasz megjelölve
+2017. 08. 04. 20:58:21;szint: 3 A válasz hibás
+2017. 08. 04. 20:58:21;Kiesett! Nyereménye: 
+2017. 08. 04. 20:58:21;Kiesett! Nyereménye: 0
+2017. 08. 04. 20:58:24;kilépés
+2017. 08. 04. 21:07:45;Kérdések betöltve
+2017. 08. 04. 21:07:55;Új játék
+2017. 08. 04. 21:08:02;szint: 0 B válasz megjelölve
+2017. 08. 04. 21:08:09;szint: 0 A válasz helyes
+2017. 08. 04. 21:08:14;Kiszállt! Nyereménye: 5.000
+2017. 08. 04. 21:08:27;kilépés
+2017. 08. 04. 21:10:16;Kérdések betöltve
+2017. 08. 04. 21:10:18;Új játék
+2017. 08. 04. 21:10:22;kilépés
